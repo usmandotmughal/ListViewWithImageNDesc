@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/usmanmughal/Desktop/ListViewWithImage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/usmanmughal/Desktop/ListViewWithImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5588469bad4332645a682bf75d1a3370993594d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/usmanmughal/Desktop/ListViewWithImage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8abe3ab50485a7d7648a6113e7a1ba23b04f0097">
+        <dex dex="/Users/usmanmughal/Desktop/ListViewWithImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d5a7f211105e18824dd33b32e286186355568dd/classes.dex" />
+    </item>
+
+</items>

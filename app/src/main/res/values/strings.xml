@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ListViewWithImage</string>
+    <string-array name="names">
+        <item>Title 1</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+        <item>Title 4</item>
+        <item>Title 5</item>
+        <item>Title 6</item>
+        <item>Title 7</item>
+        <item>Title 8</item>
+        <item>Title 9</item>
+        <item>Title 10</item>
+        <item>Title 11</item>
+        <item>Title 12</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>This is Description 1</item>
+        <item>This is Description 2</item>
+        <item>This is Description 3</item>
+        <item>This is Description 4</item>
+        <item>This is Description 5</item>
+        <item>This is Description 6</item>
+        <item>This is Description 7</item>
+        <item>This is Description 8</item>
+        <item>This is Description 9</item>
+        <item>This is Description 10</item>
+        <item>This is Description 11</item>
+        <item>This is Description 12</item>
+
+    </string-array>
+</resources>
